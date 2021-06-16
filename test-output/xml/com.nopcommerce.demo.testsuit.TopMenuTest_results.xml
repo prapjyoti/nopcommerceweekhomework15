@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TopMenu Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.247">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComputerPage" time="3.554" classname="com.nopcommerce.demo.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToGiftCards" time="2.619" classname="com.nopcommerce.demo.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToApparel" time="2.471" classname="com.nopcommerce.demo.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToElectronicsPage" time="2.677" classname="com.nopcommerce.demo.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToDigitalDownloads" time="2.545" classname="com.nopcommerce.demo.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToBooks" time="2.709" classname="com.nopcommerce.demo.testsuit.TopMenuTest" />
+                <testcase name="verifyUserShouldNavigateToJewelry" time="3.672" classname="com.nopcommerce.demo.testsuit.TopMenuTest" />
+      
+</testsuite>
